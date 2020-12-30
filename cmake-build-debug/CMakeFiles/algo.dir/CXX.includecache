@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/AnagramDictionary.h
+Bucket.h
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/Bucket.h
+
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/Bucket.h
+WordList.h
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/WordList.h
+string
+-
+
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/WordList.h
+string
+-
+
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/src/AnagramDictionary.cpp
+../headers/AnagramDictionary.h
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/AnagramDictionary.h
+iostream
+-
+
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/src/main.cpp
+../headers/AnagramDictionary.h
+/Users/m.shahidshakeel/Documents/workspace/c++/algo/headers/AnagramDictionary.h
+iostream
+-
+fstream
+-
+

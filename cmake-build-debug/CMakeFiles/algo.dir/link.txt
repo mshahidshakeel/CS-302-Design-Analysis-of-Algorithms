@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/algo.dir/src/main.cpp.o CMakeFiles/algo.dir/src/AnagramDictionary.cpp.o CMakeFiles/algo.dir/src/Bucket.cpp.o CMakeFiles/algo.dir/src/WordList.cpp.o  -o algo 
